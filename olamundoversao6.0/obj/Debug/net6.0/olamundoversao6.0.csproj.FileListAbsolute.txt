@@ -1,0 +1,15 @@
+C:\Users\mayar\OneDrive\Documentos\Projetos\olamundoversao6.0\bin\Debug\net6.0\olamundoversao6.0.exe
+C:\Users\mayar\OneDrive\Documentos\Projetos\olamundoversao6.0\bin\Debug\net6.0\olamundoversao6.0.deps.json
+C:\Users\mayar\OneDrive\Documentos\Projetos\olamundoversao6.0\bin\Debug\net6.0\olamundoversao6.0.runtimeconfig.json
+C:\Users\mayar\OneDrive\Documentos\Projetos\olamundoversao6.0\bin\Debug\net6.0\olamundoversao6.0.dll
+C:\Users\mayar\OneDrive\Documentos\Projetos\olamundoversao6.0\bin\Debug\net6.0\olamundoversao6.0.pdb
+C:\Users\mayar\OneDrive\Documentos\Projetos\olamundoversao6.0\obj\Debug\net6.0\olamundoversao6.0.csproj.AssemblyReference.cache
+C:\Users\mayar\OneDrive\Documentos\Projetos\olamundoversao6.0\obj\Debug\net6.0\olamundoversao6.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayar\OneDrive\Documentos\Projetos\olamundoversao6.0\obj\Debug\net6.0\olamundoversao6.0.AssemblyInfoInputs.cache
+C:\Users\mayar\OneDrive\Documentos\Projetos\olamundoversao6.0\obj\Debug\net6.0\olamundoversao6.0.AssemblyInfo.cs
+C:\Users\mayar\OneDrive\Documentos\Projetos\olamundoversao6.0\obj\Debug\net6.0\olamundoversao6.0.csproj.CoreCompileInputs.cache
+C:\Users\mayar\OneDrive\Documentos\Projetos\olamundoversao6.0\obj\Debug\net6.0\olamundoversao6.0.dll
+C:\Users\mayar\OneDrive\Documentos\Projetos\olamundoversao6.0\obj\Debug\net6.0\refint\olamundoversao6.0.dll
+C:\Users\mayar\OneDrive\Documentos\Projetos\olamundoversao6.0\obj\Debug\net6.0\olamundoversao6.0.pdb
+C:\Users\mayar\OneDrive\Documentos\Projetos\olamundoversao6.0\obj\Debug\net6.0\olamundoversao6.0.genruntimeconfig.cache
+C:\Users\mayar\OneDrive\Documentos\Projetos\olamundoversao6.0\obj\Debug\net6.0\ref\olamundoversao6.0.dll
